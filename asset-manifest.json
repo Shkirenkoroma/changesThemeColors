@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/changesThemeColors/static/css/main.44d5631e.css",
+    "main.js": "/changesThemeColors/static/js/main.6249f71a.js",
+    "index.html": "/changesThemeColors/index.html",
+    "main.44d5631e.css.map": "/changesThemeColors/static/css/main.44d5631e.css.map",
+    "main.6249f71a.js.map": "/changesThemeColors/static/js/main.6249f71a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d5631e.css",
+    "static/js/main.6249f71a.js"
+  ]
+}
