@@ -7,7 +7,7 @@
       "import/resolver": {
         "node": {
           "paths": ["src"],
-          "extensions": [".js", ".jsx", ".ts", ".tsx"],
+          "extensions": [".js", ".jsx", ".ts", ".tsx"]
         }
       }
     },
@@ -17,7 +17,6 @@
         "plugin:react/recommended",
         "plugin:react/jsx-runtime",
         "plugin:react-hooks/recommended",
-        "plugin:jsx-a11y/recommended",
         "plugin:import/recommended",
         "prettier"
     ],
